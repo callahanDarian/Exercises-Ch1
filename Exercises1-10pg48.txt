@@ -1,0 +1,40 @@
+1-10 pg. 48
+
+1.
+a.b
+b.c
+c.c
+d.a
+e.c
+f.a
+g.c
+h.c
+i.c
+j.b
+
+2. 
+a.a
+b.c
+c.b
+d.a
+e.c
+f.a
+g.c
+h.c
+i.a
+j.b
+
+3.
+a.Student, Teacher, Desk
+b.Money, Employee, Corporation
+c.Money, Double, eMail
+ 
+4. 
+a.Camera, Script, Props
+b.Team Lead, Team Member, Gear
+c.Instrument, Music Sheet, Attire
+
+5. 
+a.school, timeWaste, meeting
+b.food, restaurant, date
+c.trash, decor, furniture
